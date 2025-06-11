@@ -1,4 +1,5 @@
 # function for Writing file
+#Menu Driven function to read, write, delete, update text file
 def write_file():
     try:
         filename = input("Enter the filename to write: ")
